@@ -12,7 +12,7 @@ import queue
 from datetime import datetime
 
 # ========== CONFIGURAÇÃO ==========
-BOT_TOKEN = "8679559575:AAHQCXddG2CJEaedLOGosWxKuBA4tD2O7Xc"
+BOT_TOKEN = "8680398497:AAEicUkcoVE9wq4MIVg4L9sLzsQDEC5oFdc"
 CHANNEL_ID = "8529800400"
 MAX_FILE_SIZE = 50 * 1024 * 1024  # 50MB (limite do Telegram)
 
